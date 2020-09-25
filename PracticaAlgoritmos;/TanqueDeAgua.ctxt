@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TanqueDeAgua
+comment1.params=
+comment1.target=java.lang.String\ algoritmo()
+comment2.params=LlenadoAgua\ VaciadoAgua
+comment2.target=double\ TanqueAgua(double,\ double)
+numComments=3

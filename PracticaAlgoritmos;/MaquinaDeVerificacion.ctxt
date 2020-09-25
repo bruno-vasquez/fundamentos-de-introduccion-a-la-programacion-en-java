@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MaquinaDeVerificacion
+comment1.params=
+comment1.target=java.lang.String\ algoritmo()
+comment2.params=carnet\ dia
+comment2.target=int\ autorizado(int,\ java.lang.String)
+numComments=3

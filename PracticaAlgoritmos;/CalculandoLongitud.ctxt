@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculandoLongitud
+comment1.params=
+comment1.target=java.lang.String\ algoritmo()
+comment2.params=LongitudLineas
+comment2.target=int\ Longitud(int)
+numComments=3

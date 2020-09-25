@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Autobus
+comment1.params=
+comment1.target=java.lang.String\ algoritmo()
+comment2.params=valorPase\ precioBoleto
+comment2.target=double\ precio(int,\ double)
+numComments=3
